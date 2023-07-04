@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mousumi Roy / Site Title"
+title                    : "Mousumi Roy"
 title_separator          : "-"
 name                     : &name "Mousumi Roy"
 description              : &description "Researcher in dynamics on network"
@@ -83,7 +83,7 @@ author:
   name             : "Mousumi Roy"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "India"
+  location         : "Singapore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=tXlhKYEAAAAJ&hl=en"
